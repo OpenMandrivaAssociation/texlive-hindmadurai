@@ -1,6 +1,6 @@
 Name:		texlive-hindmadurai
 Version:	57360
-Release:	1
+Release:	2
 Summary:	The HindMadurai font face with support for LaTeX and pdfLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hindmadurai
