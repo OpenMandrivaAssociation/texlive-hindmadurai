@@ -3,7 +3,7 @@ Version:	57360
 Release:	2
 Summary:	The HindMadurai font face with support for LaTeX and pdfLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hindmadurai
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hindmadurai
 License:	ofl lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hindmadurai.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hindmadurai.doc.r%{version}.tar.xz
